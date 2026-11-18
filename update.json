@@ -3,10 +3,10 @@
   "app": "pos_app",
   "platform": "linux-x64",
   "version": "1.0.0",
-  "buildId": 1794951717,
-  "commit": "88e4dc5",
-  "builtAt": "2026-11-17T18:41:57-03:00",
+  "buildId": 1794960696,
+  "commit": "46247ac",
+  "builtAt": "2026-11-17T21:11:36-03:00",
   "bundle": "pos_app-linux-x64.tar.gz",
-  "size": 35637038,
-  "sha256": "78210d4d057a45340bf5fe1d843f00f3307748e5e31bac39aec4faf11551875f"
+  "size": 35641389,
+  "sha256": "09939e2c4ca9bedd13e62c1073737a01a2280785a41228731b51551dabcf7f23"
 }
